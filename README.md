@@ -1,24 +1,11 @@
-# README
+# Overview 
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This appliication is similar to Instagram, but using Test-Driven Development approach. Grammable applicaton showcase that without pushing your code to production, developer can see whether aap is running prefectly or not by running tests in terminal.
 
-Things you may want to cover:
+## New post
 
-* Ruby version
+In grammable user can post photos and other user can give comments on post's. Post can be editted or destroy if user wishes to. 
 
-* System dependencies
+![1](https://user-images.githubusercontent.com/48190085/64040380-e4406080-cb2a-11e9-9420-6353794abc16.jpg)
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+![2](https://user-images.githubusercontent.com/48190085/64040526-48632480-cb2b-11e9-8e62-a053e4c601e2.jpg)
